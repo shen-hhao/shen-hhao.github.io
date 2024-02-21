@@ -9,4 +9,4 @@ paperurl: 'https://arxiv.org/pdf/2203.02107.pdf'
 citation: 'H. Shen, W. Wan and H. Wang, "Learning Category-Level Generalizable Object Manipulation Policy Via Generative Adversarial Self-Imitation Learning From Demonstrations," in IEEE Robotics and Automation Letters, vol. 7, no. 4, pp. 11166-11173, Oct. 2022, doi: 10.1109/LRA.2022.3196122.'
 ---
 
-To be illustrated
+Project page: [https://shen-hhao.github.io/Category_Level_Manipulation/](https://shen-hhao.github.io/Category_Level_Manipulation/)
