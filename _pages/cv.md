@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer of Science, Peking University, 2028 (expected)
-* B.S. in College of Engineering, Peking University, 2023
+* B.E. in College of Engineering, Peking University, 2023
 
 <!-- Work experience
 ======
